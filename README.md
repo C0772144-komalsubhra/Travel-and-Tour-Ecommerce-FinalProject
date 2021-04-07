@@ -1,8 +1,9 @@
 # Travel-and-Tour-Ecommerce-FinalProject
 
-Created By
+#Created By
 Komal Subhra..student of MADT in Lambton College, Toronto
-Technologies
+
+#Technologies
 Front-end development
 React, Redux
 Ant Design and CSS Media Queries for responsive layouts
@@ -15,7 +16,7 @@ MongoDB
 Mongoose
 Amazon S3
 
-Features
+#Features
 User & admin login / Registration
 Role-based authentication
 Sorting, searching, and pagination for products
